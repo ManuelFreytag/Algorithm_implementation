@@ -1,0 +1,10 @@
+temp;vis;snow_depth;sport
+<(-5);Clear;>=50;Ski
+<(-5);Fog;>=50;Swim
+<(-5);Fog;<50;Swim
+<(-5);Rain;>=50;Ski
+<(-5);Rain;<50;Swim
+>=(-5);Clear;>=50;Ski
+>=(-5);Clear;<50;Ski
+>=(-5);Fog;<50;Swim
+>=(-5);Rain;>=50;Ski

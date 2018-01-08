@@ -8,7 +8,7 @@ All algorithms can be categorized as part of business analytics.
 
 **Predictive analytics:**
 - KNN-Classifier [Python]
-- C4.5 like tree learner (without prunning) [Pyhton]
+- C4.5 like tree learner (without prunning) [Python]
 
 **Prescriptive analytics:**
 Implementations for a **simulated annealing heuritic and genetic heuristic** could not be published because of rules of ownership uncertainties.
